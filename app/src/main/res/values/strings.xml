@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SpinnerPlanetas</string>
+    <string-array name="planets_array">
+        <item>Mercurio</item>
+        <item>Venus</item>
+        <item>Tierra</item>
+        <item>Marte</item>
+        <item>Júpiter</item>
+        <item>Saturno</item>
+        <item>Urano</item>
+        <item>Neptuno</item>
+    </string-array>
+
+    <string name="desc_mercurio">Mercurio es el planeta más cercano al Sol.</string>
+    <string name="desc_venus">Venus es el segundo planeta del sistema solar.</string>
+    <string name="desc_tierra">La Tierra es nuestro hogar.</string>
+    <string name="desc_marte">Marte es conocido como el planeta rojo.</string>
+    <string name="desc_jupiter">Júpiter es el planeta más grande del sistema solar.</string>
+    <string name="desc_saturno">Saturno es famoso por sus anillos.</string>
+    <string name="desc_urano">Urano tiene un eje de rotación único.</string>
+    <string name="desc_neptuno">Neptuno es el planeta más alejado del Sol.</string>
+</resources>
